@@ -2,7 +2,7 @@
 
 ## Demonstração da Plataforma
 
-[![Assista à demonstração no YouTube](https://img.youtube.com/vi/v=NsZBTm6lF4g/0.jpg)](https://www.youtube.com/watch?v=NsZBTm6lF4g)
+[![Assista à demonstração no YouTube](https://img.youtube.com/vi/NsZBTm6lF4g/0.jpg)](https://www.youtube.com/watch?v=NsZBTm6lF4g)
 
 
 O objetivo deste trabalho prático é **desenvolver uma aplicação web dinâmica** utilizando **PHP, HTML, CSS e MySQL**, com foco na **gestão de utilizadores**, **navegação entre páginas** e **funcionalidades interativas**.  
