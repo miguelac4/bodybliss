@@ -1,0 +1,17 @@
+|CREDENTIALS TO EMAIL REGISTRATION|
+
+INSERT INTO email_accounts (
+  accountName, smtpServer, port, useSSL, timeout,
+  loginName, password, email, displayName
+)
+VALUES (
+  'Bodybliss',
+  'smtp.gmail.com',
+  465,
+  1,
+  30,
+  'bodybliss.company.business@gmail.com',
+  'jhya mspg kzll abow',
+  'bodybliss.company.business@gmail.com',
+  'BodyBliss Registration'
+);

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <database>
+        <servername>localhost</servername>
+        <port>3306</port>
+        <username>root</username>
+        <pass></pass>
+        <dbname>bodybliss</dbname>
+    </database>
+</config>
