@@ -1,5 +1,10 @@
 # 🌐 Projeto BodyBliss Web – Aplicação Web Dinâmica com PHP, HTML, CSS e MySQL
 
+## Demonstração da Plataforma
+
+[![Assista à demonstração no YouTube](https://img.youtube.com/vi/v=NsZBTm6lF4g/0.jpg)](https://www.youtube.com/watch?v=NsZBTm6lF4g)
+
+
 O objetivo deste trabalho prático é **desenvolver uma aplicação web dinâmica** utilizando **PHP, HTML, CSS e MySQL**, com foco na **gestão de utilizadores**, **navegação entre páginas** e **funcionalidades interativas**.  
 
 Este projeto tem como finalidade **aplicar os conhecimentos adquiridos** na unidade curricular de **Sistemas Multimédia para a Internet (SMI)**, incluindo o uso de **sessões, formulários, validação de dados** e **organização de código**.
