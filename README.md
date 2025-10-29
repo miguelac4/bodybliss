@@ -6,9 +6,8 @@
   <a href="https://www.youtube.com/watch?v=NsZBTm6lF4g" target="_blank">
     <img src="https://img.youtube.com/vi/NsZBTm6lF4g/0.jpg" alt="Demonstração BodyBliss" width="600">
   </a>
-  <a> Clica Aqui! </a>
 </p>
-
+<a> Clica Aqui! </a>
 
 
 O objetivo deste trabalho prático é **desenvolver uma aplicação web dinâmica** utilizando **PHP, HTML, CSS e MySQL**, com foco na **gestão de utilizadores**, **navegação entre páginas** e **funcionalidades interativas**.  
