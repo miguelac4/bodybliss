@@ -7,7 +7,7 @@
     <img src="https://img.youtube.com/vi/NsZBTm6lF4g/0.jpg" alt="Demonstração BodyBliss" width="600">
   </a>
 </p>
-<a>____________________________________________________________________🔼Click Here!🔼____________________________________________________________________</a>
+<a>____________________________________________________________________🔼Click Here!🔼___________________________________________________________________</a>
 
 The objective of this practical project is to **develop a dynamic web application** using **PHP, HTML, CSS, and MySQL**, focusing on **user management**, **page navigation**, and **interactive functionalities**.
 
