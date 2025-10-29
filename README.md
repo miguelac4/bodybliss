@@ -1,35 +1,34 @@
-# 🌐 Projeto BodyBliss Web – Aplicação Web Dinâmica com PHP, HTML, CSS e MySQL
+# 🌐 BodyBliss Web Project – Dynamic Web Application Built with PHP, HTML, CSS, and MySQL
 
-## Demonstração da Plataforma
+## Platform Demonstration
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=NsZBTm6lF4g" target="_blank">
     <img src="https://img.youtube.com/vi/NsZBTm6lF4g/0.jpg" alt="Demonstração BodyBliss" width="600">
   </a>
 </p>
-<a>___________________________________________________________________🔼Clica Aqui!🔼___________________________________________________________________</a>
+<a>____________________________________________________________________🔼Click Here!🔼____________________________________________________________________</a>
 
+The objective of this practical project is to **develop a dynamic web application** using **PHP, HTML, CSS, and MySQL**, focusing on **user management**, **page navigation**, and **interactive functionalities**.
 
-O objetivo deste trabalho prático é **desenvolver uma aplicação web dinâmica** utilizando **PHP, HTML, CSS e MySQL**, com foco na **gestão de utilizadores**, **navegação entre páginas** e **funcionalidades interativas**.  
-
-Este projeto tem como finalidade **aplicar os conhecimentos adquiridos** na unidade curricular de **Sistemas Multimédia para a Internet (SMI)**, incluindo o uso de **sessões, formulários, validação de dados** e **organização de código**.
-
----
-
-##  Estrutura do Desenvolvimento
-
-O desenvolvimento foi estruturado em **três fases distintas**, permitindo uma abordagem **progressiva e sistemática** à construção da solução:
-
-###  Análise do Problema
-Nesta fase inicial, procedeu-se à **identificação dos principais módulos do sistema**, das **funcionalidades a implementar** e das **estruturas de dados a utilizar**, garantindo uma **base sólida** para as fases seguintes.
-
-### Desenvolvimento da Aplicação Web
-Com base na análise feita, passou-se à **implementação da aplicação**, recorrendo a **técnicas de programação web** que asseguram uma **experiência de utilizador fluida, segura e personalizada**.
-
-### Testes e Validação
-Por fim, foram realizados **testes de validação** com o objetivo de **comprovar o correto funcionamento da aplicação**, garantindo que **todos os requisitos funcionais foram cumpridos** e que o sistema **responde de forma fiável às diferentes interações dos utilizadores**.
+This project aims to apply the knowledge acquired in the Multimedia Systems for the Internet (SMI) course, including the use of **sessions, forms, data validation**, and **code organization**.
 
 ---
 
-**Resumo:**  
-Este projeto representa a integração prática dos conceitos abordados ao longo da unidade curricular, promovendo a consolidação de competências no **desenvolvimento de aplicações web interativas e responsivas**.
+##  Development Structure
+
+The development was structured into three distinct phases, allowing a progressive and systematic approach to building the solution:
+
+###  Problem Analysis
+In this initial phase, the main system modules, the functionalities to be implemented, and the data structures to be used were identified, ensuring a solid foundation for the following phases.
+
+### Web Application Development
+Based on the analysis carried out, the **implementation of the application** was initiated, using **web programming techniques** that ensure a **fluid, secure, and personalized user experience**.
+
+### Testing and Validation
+Finally, **validation tests** were carried out with the aim of **verifying the correct functioning of the application**, ensuring that **all functional requirements were met** and that the **system responds reliably to different user interactions**.
+
+---
+
+**Summary:**  
+This project represents the practical integration of the concepts covered throughout the course unit, promoting the consolidation of skills in the **development of interactive and responsive web applications**.
