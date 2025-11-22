@@ -2,12 +2,13 @@
 
 ## Platform Demonstration
 
+> 👉 **Click the image above** to watch the platform demonstration.
 <p align="center">
   <a href="https://www.youtube.com/watch?v=NsZBTm6lF4g" target="_blank">
     <img src="https://img.youtube.com/vi/NsZBTm6lF4g/0.jpg" alt="Demonstração BodyBliss" width="600">
   </a>
 </p>
-<a>____________________________________________________________________🔼Click Here!🔼__________________________________________________________________</a>
+
 
 The objective of this practical project is to **develop a dynamic web application** using **PHP, HTML, CSS, and MySQL**, focusing on **user management**, **page navigation**, and **interactive functionalities**.
 
